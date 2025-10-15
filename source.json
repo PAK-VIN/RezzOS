@@ -1,0 +1,93 @@
+{
+  "name": "RezzOS",
+  "subtitle": "Discontinued games, resurrected!",
+  "description": "RezzOS (formerly The Resurrection Repo) is a repository filled to the brim with revived and/or discontinued games that are still playable. Play your favorites, such as Minecraft: Story Mode, SpongeBob Moves In, and Skylanders! Enjoy!",
+  "iconURL": "https://i.imgur.com/RZw2goT.png",
+  "tintColor": "#ffb100",
+  "featuredApps": [],
+  "headerURL": "https://i.imgur.com/G8pZuEu.png",
+  "apps": [
+    {
+      "name": "Minecraft: Story Mode",
+      "bundleIdentifier": "com.telltalegames.MC100",
+      "marketplaceID": "",
+      "developerName": "Telltale Games Inc.",
+      "subtitle": "An epic adventure based in the world of Minecraft!",
+      "localizedDescription": "THE ADVENTURE OF A LIFETIME IN THE WORLD OF MINECRAFT!\n\nRecommended for iPhone 5 or later, and iPad 3 or later.\n\nIn this 8-part episodic series, you'll embark on a perilous adventure across the Overworld, through the Nether, to the End, and beyond. You and your friends revere the legendary Order of the Stone: Warrior, Redstone Engineer, Griefer, and Architect; slayers of the Ender Dragon. While at EnderCon in hopes of meeting Gabriel the Warrior, you and your friends discover that something is wrong something dreadful. Terror is unleashed, and you must set out on a quest to find The Order of the Stone if you are to save your world from oblivion.\n\nCreated by award-winning adventure game powerhouse Telltale Games, in partnership with Minecraft creators, Mojang\n\nFeaturing the voices of Patton Oswalt (Ratatouille, Agents of S.H.I.E.L.D), Brian Posehn (The Sarah Silverman Program, Mission Hill), Ashley Johnson (The Last of Us, Tales from the Borderlands), Scott Porter (Friday Night Lights, X-Men), Martha Plimpton (The Goonies, Raising Hope), Dave Fennoy (The Walking Dead: A Telltale Games Series, Batman: Arkham Knight), Corey Feldman (The Goonies, Stand by Me), Billy West (Futurama, Adventure Time), and Paul Reubens (Tron: Uprising, Pee-Wee s Playhouse)\n\nYou will drive the story through the decisions you make: what you say to people (and how you say it), and what you choose to do in moments of thrilling action will make this YOUR story!\n\nRequires iOS 7.1 or later. Compatible with iPhone, iPad, and iPod touch.\n",
+      "iconURL": "https://i.imgur.com/q227Heq.png",
+      "tintColor": "#d82804",
+      "category": "games",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://i.imgur.com/Wiryr3i.png",
+            "width": 810,
+            "height": 456
+          },
+          {
+            "imageURL": "https://i.imgur.com/Qnl114V.png",
+            "width": 1334,
+            "height": 750
+          },
+          {
+            "imageURL": "https://i.imgur.com/ytq9nVR.png",
+            "width": 1080,
+            "height": 607
+          },
+          {
+            "imageURL": "https://i.imgur.com/CXXxboY.png",
+            "width": 520,
+            "height": 293
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://i.imgur.com/G4DAKsj.png",
+            "width": 810,
+            "height": 456
+          },
+          {
+            "imageURL": "https://i.imgur.com/zI29nkj.png",
+            "width": 1334,
+            "height": 750
+          },
+          {
+            "imageURL": "https://i.imgur.com/h7etVHk.png",
+            "width": 1080,
+            "height": 607
+          },
+          {
+            "imageURL": "https://i.imgur.com/kG6qAJu.png",
+            "width": 520,
+            "height": 293
+          }
+        ]
+      },
+      "versions": [
+        {
+          "downloadURL": "https://github.com/PAK-VIN/RezzOS/releases/download/untagged-89c817711704a5f38f93/Minecraft.Story.Mode.ipa",
+          "size": 991700000,
+          "version": "1.7.0",
+          "date": "2025-10-13T04:00:00-04:00",
+          "localizedDescription": "The latest release with bug fixes.",
+          "minOSVersion": "7.1"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": [
+    {
+      "title": "Welcome to v1.0.0!",
+      "identifier": "news_v8kxe9u5fk",
+      "caption": "Welcome to RezzOS v1.0.0! Please enjoy!",
+      "date": "2025-10-16T00:00",
+      "tintColor": "#ffb100",
+      "notify": true,
+      "appID": null
+    }
+  ]
+}
