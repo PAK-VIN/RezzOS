@@ -169,7 +169,7 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSLocationWhenInUseUsageDescription": ""
+          "NSLocationWhenInUseUsageDescription": "Press OK to allow Skylanders™ Creator to locate your console that Skylanders™ Imaginators is running on."
         }
       }
     },
