@@ -4,9 +4,175 @@
   "description": "RezzOS (formerly The Resurrection Repo) is a repository filled to the brim with revived and/or discontinued games that are still playable. Play your favorites, such as Minecraft: Story Mode, SpongeBob Moves In, and Skylanders! Enjoy!",
   "iconURL": "https://i.imgur.com/RZw2goT.png",
   "tintColor": "#ffb100",
-  "featuredApps": [],
+  "featuredApps": [
+    "com.activision.skylanders.creator",
+    "com.telltalegames.MC100",
+    "com.mtvn.sbmi"
+  ],
   "headerURL": "https://i.imgur.com/G8pZuEu.png",
   "apps": [
+    {
+      "name": "SpongeBob: Moves In!",
+      "bundleIdentifier": "com.mtvn.sbmi",
+      "developerName": "Viacom International LLC.",
+      "subtitle": "Relive SpongeBob's first day in Bikini Bottom!",
+      "localizedDescription": "Dive into Day 1 of SpongeBob’s life in Bikini Bottom! Move him into his Pineapple house, get a job at the Krusty Krab, and build your very own Bikini Bottom! As your town turns into a thriving undersea city, you’ll unlock new characters, buildings, decorations, and areas like Jellyfish Fields.\n\n--------------------\nPLEASE NOTE: SpongeBob Moves In charges real money for additional in-app content. You may lock out the ability to purchase in-app content by adjusting your device’s settings.\nWI-FI: Connect to your nearest Wi-Fi hot spot to download all the awesome SpongeBob content the first time you play the game.\n--------------------\n\nUNLOCK EXCLUSIVE, ORIGINAL ANIMATED SHORTS!\n* Watch how SpongeBob arrived at Bikini Bottom\n* See how Patrick found his rock\n* Learn about Mr. Krabs’ early days at The Krusty Krab\n\nSEAWORTHY FEATURES\n-Build your very own Bikini Bottom!\n-Make Bikini Bottom landmarks like Patrick’s Rock, SpongeBob’s Pineapple, the Krusty Krab\n-Perfect the art of fry cooking at the Krusty Krab to feed your Bottomites and earn new and rare recipes\n-Play with Patrick, Squidward, Sandy and many other familiar faces!\n-Perform tons of quests to make your favorite characters happy\n-Tom Kenny and other voices from the show make it an authentic SpongeBob experience\n-Tons of interactive props, decorations and buildings\n-Optimized for Retina display, iPhone 5 and iPad Mini!\n\nCOMING SOON\nNew characters and buildings to unlock, new areas to expand into, and much, much more!\n\n___________________________\nADDITIONAL NOTES:\nSpongeBob Moves In collects personal user data as well as non-personal user data (including aggregated data) and connects with 3rd party social media applications. User data may be used, for example, to respond to user requests; enable users to take advantage of certain features and services; personalize content and advertising; and manage and improve Nickelodeon's services. For more information regarding Nickelodeon’s use of personal user data, please visit the Nickelodeon Group Privacy Policy below. Our Privacy Policy is in addition to any terms, conditions or policies agreed to between you\nand Apple, Inc., and Nickelodeon and its affiliated entities are not responsible for Apple's collection or use of your personal user data and information. Additionally, this App may use “local\nnotifications.” Local notifications are sent directly from the App to your device (you don’t need to be connected to the Internet) and may be used to notify you of new content or events within your App, among other reasons. Use of this app is subject to the Nickelodeon End User License Agreement.\nSpongeBob Moves In offers in-app purchases and charges real money for additional in-app content. You may lock out the ability to purchase in-app content by adjusting your device’s settings.\nYou may have set up your Apple ID password to keep you logged on for 15 minutes after an initial in-app purchase. If so, additional purchases won’t require a re-entry of the password during this 15 minute interval. This is a function of how you set up your account and not within our control.\nFor users residing in the EU, SpongeBob Moves In may include the use of persistent identifiers for game management purposes and installation of this app constitutes your permission to such usage of persistent identifiers for all users on your device.\nEnd User License Agreement: 🔗link\nPrivacy Policy: 🔗link\nThe End User License Agreement for this app includes arbitration for disputes – see FAQs: 🔗link",
+      "iconURL": "https://i.imgur.com/k5VDIJQ.png",
+      "tintColor": "#fcd804",
+      "category": "other",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://i.imgur.com/FT5aThZ.png",
+            "width": 696,
+            "height": 391
+          },
+          {
+            "imageURL": "https://i.imgur.com/Yq1Fj6D.png",
+            "width": 696,
+            "height": 391
+          },
+          {
+            "imageURL": "https://i.imgur.com/GZJBxoF.png",
+            "width": 696,
+            "height": 391
+          },
+          {
+            "imageURL": "https://i.imgur.com/Rguj0cR.png",
+            "width": 696,
+            "height": 391
+          },
+          {
+            "imageURL": "https://i.imgur.com/HJWb0sf.png",
+            "width": 696,
+            "height": 391
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://i.imgur.com/E2PryBx.png",
+            "width": 696,
+            "height": 391
+          },
+          {
+            "imageURL": "https://i.imgur.com/GPjpSvG.png",
+            "width": 696,
+            "height": 391
+          },
+          {
+            "imageURL": "https://i.imgur.com/iTH0X96.png",
+            "width": 696,
+            "height": 391
+          },
+          {
+            "imageURL": "https://i.imgur.com/FeTo0zQ.png",
+            "width": 696,
+            "height": 391
+          },
+          {
+            "imageURL": "https://i.imgur.com/WDN5oTn.png",
+            "width": 696,
+            "height": 391
+          }
+        ]
+      },
+      "versions": [
+        {
+          "downloadURL": "https://github.com/PAK-VIN/RezzOS/releases/download/untagged-c7f2cfad0f5aae604caf/SpongeBob.Moves.In.ipa",
+          "size": 239900000,
+          "version": "4.3.1",
+          "date": "2025-10-15T04:00:00-04:00",
+          "localizedDescription": "Latest release with bug fixes.",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Skylanders™ Creator",
+      "bundleIdentifier": "com.activision.skylanders.creator",
+      "developerName": "Activision LLC",
+      "subtitle": "Create your own Skylanders™! Anytime, anywhere!",
+      "localizedDescription": "Skylanders™ Imaginators Creator App: Import, Create & Share Your Skylander Creations!\n\nKaos has discovered the ancient power of Mind Magic and is using it to create an unstoppable army of Doomlanders! Eon is calling upon all Portal Masters and Skylands’ greatest mystic warriors, the Senseis to stop Kaos and his minions. Now, you must use the power of your imagination to create your own Skylanders to battle in the ultimate adventure alongside the almighty Senseis to save Skylands.\n\nUnleash your Imagination! Create your own Skylanders and bring them to life using the SkylandersTM Creator companion app. Magically import your favorite creations from the Skylanders Imaginators video game or create new Imaginators in the Skylanders Creator App. Collect Sensei Skylanders and Mystery Chests to unlock new parts, gear and weapons. Showcase and share your creations with your friends on all of your favorite social media platforms. Visit the shop where you can bring your creations to life and order playable 3D Imaginator Figures, playable Imaginator Cards, T-shirts and more.*\n• Skylanders Imaginators Companion App: Import and Create your own Skylanders\n• Create Your Own Skylanders on the go\n• Unlock new Imaginator creation parts, gear and weapons\n• Share your creations with your friends\n• Order playable Imaginator Figures, playable Imaginator Cards and More*\n*No longer offered, discontinued\n",
+      "iconURL": "https://i.imgur.com/9C4T1f4.png",
+      "tintColor": "#006eff",
+      "category": "games",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://i.imgur.com/1ylva6N.png",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "imageURL": "https://i.imgur.com/8G9Ru43.png",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "imageURL": "https://i.imgur.com/30w1UOP.png",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "imageURL": "https://i.imgur.com/2RyBPPC.png",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "imageURL": "https://i.imgur.com/vRkz7Jm.png",
+            "width": 720,
+            "height": 405
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://i.imgur.com/Q7HAu65.png",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "imageURL": "https://i.imgur.com/47bdU8w.png",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "imageURL": "https://i.imgur.com/kYiuvp0.png",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "imageURL": "https://i.imgur.com/EWM7NXn.png",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "imageURL": "https://i.imgur.com/JfSy2fn.png",
+            "width": 720,
+            "height": 405
+          }
+        ]
+      },
+      "versions": [
+        {
+          "downloadURL": "https://github.com/PAK-VIN/RezzOS/releases/download/untagged-1f04c4dbd317c10b7f03/Skylanders.Creator.ipa",
+          "size": 448400000,
+          "version": "1.2.0",
+          "date": "2025-10-15T16:16:00-04:00",
+          "localizedDescription": "Latest release with bug fixes.",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": ""
+        }
+      }
+    },
     {
       "name": "Minecraft: Story Mode",
       "bundleIdentifier": "com.telltalegames.MC100",
@@ -80,10 +246,60 @@
   ],
   "news": [
     {
-      "title": "Welcome to v1.0.0!",
+      "title": "Coming soon to RezzOS...",
+      "identifier": "news_2lmhqukc81",
+      "caption": "Defeat the Admin when Minecraft: Story Mode - Season 2 returns in v2.0.0-stable!",
+      "date": "2025-10-25T21:13",
+      "tintColor": "#1ba732",
+      "imageURL": "https://i.imgur.com/CcKKVGV.png",
+      "notify": true,
+      "appID": null
+    },
+    {
+      "title": "Coming soon to RezzOS...",
+      "identifier": "news_9fsi3a1hy5",
+      "caption": "Drop in and loot up when Fortnite EZFN comes to RezzOS in v2.0.0-stable!",
+      "date": "2025-10-20T00:00",
+      "tintColor": "#6cde99",
+      "imageURL": "https://i.imgur.com/vzyNHa8.png",
+      "notify": true,
+      "appID": null
+    },
+    {
+      "title": "v1.0.0-stable - Who lives in a pineapple under the sea?",
+      "identifier": "news_1404cg4b47",
+      "caption": "SpongeBob Squarepants returns from 2013 in SpongeBob: Moves In!",
+      "date": "2025-10-15T00:00",
+      "tintColor": "#fcd804",
+      "imageURL": "https://i.imgur.com/gni1sLR.png",
+      "notify": true,
+      "appID": "com.mtvn.sbmi"
+    },
+    {
+      "title": "v1.0.0-stable - The Imaginators are back! ",
+      "identifier": "news_abhqvv7kqq",
+      "caption": "Make your own Skylanders in the Skylanders™ Creator, returning from 2016!",
+      "date": "2025-10-15T00:00",
+      "tintColor": "#006eff",
+      "notify": true,
+      "appID": "com.activision.skylanders.creator",
+      "imageURL": "https://i.imgur.com/iPwPH8w.png"
+    },
+    {
+      "title": "v1.0.0-stable - Nothing built can last forever!",
+      "identifier": "news_om591hgh96",
+      "caption": "Returning from 2015 is Minecraft: Story Mode - Season 1! ",
+      "date": "2025-10-15T00:00",
+      "tintColor": "#d82804",
+      "imageURL": "https://i.imgur.com/hki6qnX.png",
+      "notify": true,
+      "appID": "com.telltalegames.MC100"
+    },
+    {
+      "title": "Welcome to v1.0.0-stable!",
       "identifier": "news_v8kxe9u5fk",
-      "caption": "Welcome to RezzOS v1.0.0! Please enjoy!",
-      "date": "2025-10-16T00:00",
+      "caption": "Welcome to RezzOS v1.0.0-stable! Please enjoy!",
+      "date": "2025-10-15T00:00",
       "tintColor": "#ffb100",
       "notify": true,
       "appID": null
